@@ -1,6 +1,6 @@
 import manms
 
 #获取身份证地址
-print(manms.getsfzadd("513001199506200836"))
+print(manms.getsfzadd("51300*********36"))
 
 
